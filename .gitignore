@@ -1,0 +1,8 @@
+.directory
+ghk
+tests/
+.env
+#все файлы начинающиеся с точки
+.*
+# кроме
+!.gitignore
